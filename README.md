@@ -6,7 +6,7 @@ If you are hiring for software engineering roles at a Bitcoin-focused company, I
 
 I'll be more actively searching for a role sometime in 2021 but certainly won't pass up a good opportunity should one arise before then.
 
-At the moment, I'm focused on building out a "Learning Bitcoin with RaspiBlitz" in-depth guide. In the future I plan to do more coding-focused projects and contribute back to existing open source projects for Bitcoin.
+At the moment, I'm focused on building out a ["Learning Bitcoin with RaspiBlitz" in-depth guide](https://github.com/printer-go-brrr/learning-bitcoin-with-raspiblitz). In the future I plan to do more coding-focused projects and contribute back to existing open source projects for Bitcoin.
 
 ### 📫 How to reach me
 
